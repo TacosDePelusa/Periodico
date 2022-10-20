@@ -1,0 +1,27 @@
+h1.titulo{
+    color:rgb(0, 50, 255 );
+}
+h1.titulo2{
+    color:rgb(0, 255, 209);
+}
+body{
+    background-color:black;
+}
+p{
+    color:rgb(255, 255, 255);
+}
+h3{
+    color:rgb(0, 185, 255);
+}
+#perro{
+    color:rgb(255, 0, 255);
+}
+#historia{
+    color:rgb(255, 0, 119);
+}
+#fan{
+    color:rgb(255, 251, 0);
+}
+.pata{
+    background-color: crimson;
+}
